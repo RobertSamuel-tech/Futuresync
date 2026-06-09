@@ -429,6 +429,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 *Fortune is the destination. Guide is the method.*
 
-**DeveloperWeek New York 2026 Hackathon &nbsp;·&nbsp Name.com track &nbsp;·&nbsp;Domain - fortune.guide**
+**DeveloperWeek New York 2026 Hackathon &nbsp;·&nbsp;Name.com track &nbsp;·&nbsp;Domain - fortune.guide**
 
 </div>
