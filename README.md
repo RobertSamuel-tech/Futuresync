@@ -1,6 +1,7 @@
 # FutureSync
 
-### Built for Name.com Domain Roulette 2026
+### Built for DeveloperWeek New York 2026 Hackathon
+### Track : Name.com
 ### Domain: fortune.guide
 
 ---
