@@ -21,7 +21,7 @@ Together, `fortune.guide` becomes a platform that guides organizations toward be
 
 <div align="center">
 
-# FutureSyn (Fortune.Guide) 
+# FutureSync ( Fortune.Guide ) 
 
 ### AI-Powered Executive Intelligence for Predicting, Planning, and Prospering.
 
