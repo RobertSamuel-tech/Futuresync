@@ -425,7 +425,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-**Fortune.Guide**
+**Futuresync = Fortune.Guide**
 
 *Fortune is the destination. Guide is the method.*
 
