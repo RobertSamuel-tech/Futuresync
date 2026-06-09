@@ -409,14 +409,6 @@ Most AI tools tell you what they think. Fortune.Guide shows you why it thinks it
 
 ---
 
-## Contributing
-
-Fortune.Guide welcomes contributions from the community. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on submitting improvements, reporting issues, and proposing new features.
-
-For inquiries and support, contact the **Fortune.Guide Team** at team@fortune.guide.
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
