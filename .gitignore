@@ -1,0 +1,12 @@
+node_modules
+build
+.env
+.env.local
+.env.*.local
+*.log
+npm-debug.log*
+__pycache__
+*.pyc
+*.pyo
+.DS_Store
+.claude

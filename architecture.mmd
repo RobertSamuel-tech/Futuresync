@@ -1,0 +1,51 @@
+graph TD
+    User([👤 User]) --> Dashboard
+
+    Dashboard["🖥️ Fortune Dashboard\n(React SPA)"]
+
+    Dashboard -->|REST / WebSocket| Council
+
+    Council["⚙️ Guide Council\n(Flask API)"]
+
+    Council --> Scout
+    Council --> Strategist
+    Council --> Orchestrator
+    Council --> Sage
+
+    Scout["🔭 Fortune Scout\nTrend & Threat Detection"]
+    Strategist["🧠 Guide Strategist\nRecommendation Engine"]
+    Orchestrator["🔄 Sync Orchestrator\nExecution Coordinator"]
+    Sage["📋 Audit Sage\nOutcome Tracker"]
+
+    Scout --> Intel
+    Strategist --> Intel
+    Orchestrator --> Intel
+    Sage --> Intel
+
+    Intel["📡 Market Intelligence Layer\n(SerpAPI + FAISS Vector Store)"]
+
+    Intel --> Engine
+
+    Engine["⚡ Decision Engine\n(LangChain + OpenAI GPT + Anthropic Claude)"]
+
+    Engine --> Ledger
+
+    Ledger["📒 Fortune Ledger\nAudit Trail & Memory"]
+
+    Ledger --> Output
+
+    Output["✅ Executive Recommendations\n(Fortune Score™ · Fortune Map™ · Guide Loop™)"]
+
+    Output -->|Guide Loop™ feedback| Council
+
+    style User fill:#6C47FF,color:#fff,stroke:none
+    style Dashboard fill:#1a1a2e,color:#fff,stroke:#6C47FF,stroke-width:2px
+    style Council fill:#1a1a2e,color:#fff,stroke:#6C47FF,stroke-width:2px
+    style Scout fill:#16213e,color:#00C896,stroke:#00C896,stroke-width:1px
+    style Strategist fill:#16213e,color:#00C896,stroke:#00C896,stroke-width:1px
+    style Orchestrator fill:#16213e,color:#00C896,stroke:#00C896,stroke-width:1px
+    style Sage fill:#16213e,color:#00C896,stroke:#00C896,stroke-width:1px
+    style Intel fill:#0f3460,color:#fff,stroke:#4a9eff,stroke-width:1px
+    style Engine fill:#0f3460,color:#fff,stroke:#4a9eff,stroke-width:1px
+    style Ledger fill:#1a1a2e,color:#fff,stroke:#6C47FF,stroke-width:2px
+    style Output fill:#00C896,color:#000,stroke:none
